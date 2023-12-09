@@ -24,7 +24,9 @@ pageClass: device-page
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
-
+This picture is the one from https://www.zigbee2mqtt.io/devices/TS0601_dimmer_4.html "2 gang smart dimmer module".
+On the other hand on device "Model | TS0601_dimmer_4" there is the picture for this model.
+So it was a mixup between those two products.
 
 <!-- Notes END: Do not edit below this line -->
 
